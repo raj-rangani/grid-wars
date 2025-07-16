@@ -44,6 +44,4 @@ To get started, clone the repository and follow the setup instructions in the re
    http://localhost:3000
    ```
 
-Repeat step 3 for any other app you wish to run (e.g., `docs`).
-
----
+Repeat step 3 for any other app you wish to run (e.g., `server`).
